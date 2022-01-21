@@ -87,7 +87,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('SOURCE CODE 🤤', url='https://t.me/shity_man')
+                    InlineKeyboardButton('SOURCE CODE 🤤', url='https://t.me/nhi_milega')
                 ]
             ]
         ),
@@ -105,7 +105,7 @@ async def incoming_compress_message_f(update):
   #        if user.status == "kicked":
   #           await bot.send_message(
   #               chat_id=update.chat.id,
-  #               text="Sorry Sir, You are Banned to use me. Contact my [BOSS](https://t.me/Nur0ns).",
+  #               text="Sorry Sir, You are Banned to use me. Contact my [BOSS](https://t.me/born_not_available).",
   #               parse_mode="markdown",
   #               disable_web_page_preview=True
     #         )
